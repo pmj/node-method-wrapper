@@ -8,7 +8,7 @@ code.
 
 This library is an attempt to do all the checking and boxing/unboxing
 automatically. The samples/simple module shows some more supported types, but
-here's an excerpt to wet your appetite. This is literally all you need to export
+here's an excerpt to whet your appetite. This is literally all you need to export
 the C++ method StringTest() as a "stringTest" method on each "Simple" object:
 
 	#include "node-method-wrap.hpp"
