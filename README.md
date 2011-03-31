@@ -53,6 +53,10 @@ seem doable if needed.
 I'm also planning to implement an auto-async-mechanism for wrapping functions
 in threads and invoking a callback on completion.
 
+## License
+
+MIT License.
+
 ## Acknowledgments
 
 [Cloudkick's node.js module writing guide](https://www.cloudkick.com/blog/2010/aug/23/writing-nodejs-native-extensions/) helped me get up to speed with node.js's C++ bindings.
